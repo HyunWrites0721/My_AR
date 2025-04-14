@@ -2,7 +2,8 @@
 
 - A simple program that displays an AR of PAC-MAN on a chessboard video.
 - This program displays 3D PAC-MAN on a chessboard video, using camera matrix and distortion coefficients.
-- Calibration datas obtatined through: https://github.com/HyunWrites0721/Cam_distortion_corrector
+- Video also shows you the camera position.
+- Calibration datas obtatined from code here: https://github.com/HyunWrites0721/Cam_distortion_corrector
 
 - Screenshot of an AR displayed (full video on main)
  
