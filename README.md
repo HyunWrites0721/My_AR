@@ -1,6 +1,7 @@
 # MY AR
 
 - A simple program that displays an AR of PAC-MAN on a chessboard video.
+- License info of the model : pac man by Ricardo Marroquin [CC-BY] via Poly Pizza
 - This program displays 3D PAC-MAN on a chessboard video, using camera matrix and distortion coefficients.
 - Video also shows you the camera position.
 - Calibration datas obtatined from code here: https://github.com/HyunWrites0721/Cam_distortion_corrector
